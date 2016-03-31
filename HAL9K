@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "HAL9K",
+        "Address": "Jupiter",
+        "Review": "Perfection"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96024370193481,
+          -37.809614426404934
+        ]
+      }
+    }
+  ]
+}
